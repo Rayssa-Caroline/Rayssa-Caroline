@@ -7,7 +7,7 @@
  <td align="center" colspan="3"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="(https://cdn.discordapp.com/attachments/1299876087383457825/1305352655157329920/image.png?ex=673360a5&is=67320f25&hm=e5c9d446d9d7c7bca8fc77be4ca4808bd427de726e69296ab29b5aa5462e8536&)raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs.png?raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring.png?raw=true"/></a></td>
 </tr>
