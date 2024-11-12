@@ -66,7 +66,7 @@
   <td>
   <div align="justify">
   <p> 
-  - :women-engineer: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação. Também sou <code>coordenador</code> da Agência Experimental de Software do ICEI - Instituto de Ciências Exatas e Informática.<br />
+  - 👩‍🎓: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> no cursos de Engenharia da Computação. 
   - :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, fui <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
    - :necktie: Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
   - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
