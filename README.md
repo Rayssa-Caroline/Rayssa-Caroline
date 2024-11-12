@@ -68,20 +68,20 @@
   <p> 
   - 👩‍🎓: Na <a   href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> do 4° período no curso de Engenharia da Computação. <a/> <br/>
   - 👩‍💼: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
-   target="_blank">Localiza</a>, atuei como <code>It Developer Operation</code>, responsável pelo suporte técnico de segundo nível, garantindo a resolução de incidentes complexos e o funcionamento contínuo dos sistemas; :airplane:<br />
+   target="_blank">Localiza</a>, atuo como <code>It Developer Operation</code>, responsável pelo suporte técnico de segundo nível, garantindo a resolução de incidentes complexos e o funcionamento contínuo dos sistemas; :airplane:<br />
   - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/usuario/8907731-ray" target="_blank">aqui</a>.<br />
   - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cruzeirão</a>. 🦊:<br />
   - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt4474344/?ref_=fn_al_tt_1" target="_blank">Ponto Cego</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt0455275/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_pris" target="_blank">Prison Break</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-  - :mailbox: Para me encontrar, este é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:joaoaramuni@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
-  - :calendar: Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+  - :mailbox: Para me encontrar, este é meu <a href="mailto:rayssacaroline.dev@gmail.com" target="_blank">e-mail</a> <br />
+  - :calendar: Essa é minha <a href="https://calendly.com/event_types/user/me" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
   - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
   </p>
   </div>
   </td>
   <td>
   <div>
-  <img alt="GIF" src="https://github.com/Thiag-0/Thiag-0/blob/main/img/hacker-gif-3.gif" width="340px" height="650px"/>
+  <img alt="GIF" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/computer-work%20(1).gif" width="340px" height="650px"/>
   </div>
   </td>
   </tr>
