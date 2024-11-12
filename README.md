@@ -75,7 +75,8 @@
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
   - :mailbox: Para me encontrar, este é meu <a href="mailto:rayssacaroline.dev@gmail.com" target="_blank">e-mail</a> <br />
   - :calendar: Essa é minha <a href="https://calendly.com/event_types/user/me" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-  - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+  - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações. <br/>
+  - 😄: Voluntariei no <a href="https://www.linkedin.com/posts/rayssa-caroline_s%C3%A1bado-tive-a-honra-de-ser-volunt%C3%A1rio-no-activity-7256675784864538624-tf5e?utm_source=share&utm_medium=member_desktop" target="_blank">DevFest</a> onde auxiliei na organização e recepção de participantes. <br/>
   </p>
   </div>
   </td>
