@@ -28,7 +28,7 @@
   </td>
   <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
   </td>-->
-  <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+  <td><a href="https://discord.com/users/starggel4286" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/discord.png" width="50px" height="50px"/></a>
   </td>
   <td><a href="https://www.skoob.com.br/usuario/8907731-ray" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/skoob.png" width="50px" height="50px"/></a>
   </td>
