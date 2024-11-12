@@ -13,7 +13,7 @@
    <td align="center" colspan="11"></td>
   </tr> 
   <tr>
-  <td><a href="https://github.com/Rayssa-Caroline" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/d21aca71-5cea-481e-be32-7f79b1df2ce4.jpg" width="50px" height="50px"/></a>
+  <td><a href="https://github.com/Rayssa-Caroline" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/github%20logo.png" width="50px" height="50px"/></a>
   </td>
    <td><a href="https://www.linkedin.com/in/rayssa-caroline/" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/linkedin2.png" width="50px" height="50px"/></a>
   </td>
