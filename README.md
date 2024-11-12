@@ -42,7 +42,7 @@
   
   </div>
   <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <code>Thiago</code>, tenho 22 anos, moro em Sabará e sou estudante do curso de Sistemas de Informação no <a href="https://www.ifmg.edu.br/sabara" target="_blank">IFMG Sabará</a>.</i> :man_teacher:<br />
+  <i><b>Olá</b> :wave:, sou a <code>Rayssa</code>, tenho 19 anos, moro em Sabará-MG e sou estudante do curso de Engenharia da Computação no <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
   </div>
   
   -----
