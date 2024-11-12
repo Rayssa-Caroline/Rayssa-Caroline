@@ -77,7 +77,7 @@
   - :calendar: Essa é minha <a href="https://calendly.com/event_types/user/me" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
   - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações. <br/>
   - 😄: Voluntariei no <a href="https://www.linkedin.com/posts/rayssa-caroline_s%C3%A1bado-tive-a-honra-de-ser-volunt%C3%A1rio-no-activity-7256675784864538624-tf5e?utm_source=share&utm_medium=member_desktop" target="_blank">DevFest</a> onde auxiliei na organização e recepção de participantes, evento que reuniu mentes apaixonadas por tecnologia e inovação... <br/>
- - 😄: Voluntariei no <a href="https://www.linkedin.com/posts/rayssa-caroline_localizalabs-activity-7205447901496414209-Un5R?utm_source=share&utm_medium=member_desktop" target="_blank">Google I/O</a>> onde auxiliei no credenciamento e na organização do evento. <br/>
+ - 😄: Voluntariei no <a href="https://www.linkedin.com/posts/rayssa-caroline_localizalabs-activity-7205447901496414209-Un5R?utm_source=share&utm_medium=member_desktop" target="_blank">Google I/O </a> onde auxiliei no credenciamento e na organização do evento. <br/>
   </p>
   </div>
   </td>
