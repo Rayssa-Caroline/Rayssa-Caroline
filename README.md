@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <div align="center">
-<img src="https://imgur.com/a/6wEDepx" width="0px" />
+<img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/image%20banner.png" width="0px" />
 </div>
   
   -----
