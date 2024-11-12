@@ -1,9 +1,10 @@
 <!-- BANNER -->
 
-<div align="center">
-<img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/image%20banner.png" width="0px" />
-</div>
+  <div>
+  <img align="center" alt="Header" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/image%20banner.png"/>
+  </div>
   
+
   -----
   
   <div align="center">
