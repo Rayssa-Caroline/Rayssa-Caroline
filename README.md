@@ -17,7 +17,7 @@
   </td>
    <td><a href="https://www.linkedin.com/in/rayssa-caroline/" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/linkedin2.png" width="50px" height="50px"/></a>
   </td>
-  <td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+  <td><a href="https://mail.google.com/mail/?view=cm&fs=1&to=rayssacaroline.dev@gmail.com" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/gmail2.png" width="50px" height="50px"/></a
   </td>
   <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
   </td>
