@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1299876087383457825/1305352655157329920/image.png?ex=673360a5&is=67320f25&hm=e5c9d446d9d7c7bca8fc77be4ca4808bd427de726e69296ab29b5aa5462e8536&" width="0px" />
+<img src="https://imgur.com/a/6wEDepx" width="0px" />
 </div>
   
   -----
