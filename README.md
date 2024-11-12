@@ -67,8 +67,8 @@
   <div align="justify">
   <p> 
   - 👩‍🎓: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> do 4° período no curso de Engenharia da Computação. 
-  - :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, fui <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-   - :necktie: Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
+   - :necktie: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
+   target="_blank">Localiza</a>, atuei como <code>It Developer Operation</code>, responsável pelo suporte técnico de segundo nível, garantindo a resolução de incidentes complexos e o funcionamento contínuo dos sistemas; :airplane:<br />
   - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
   - :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">Faculdade XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
   - :trophy: Fui o <a href="https://www.linkedin.com/posts/joaopauloaramuni_estou-muito-honrado-com-essa-homenagem-do-activity-7164606251341889536-_khY" target="_blank">professor destaque</a> do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
