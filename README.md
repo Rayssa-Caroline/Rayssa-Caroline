@@ -81,7 +81,7 @@
   </td>
   <td>
   <div>
-  <img alt="GIF" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/computer-work%20(1).gif" width="340px" height="650px"/>
+  <img alt="GIF" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/giphy.gif" width="340px" height="650px"/>
   </div>
   </td>
   </tr>
