@@ -67,18 +67,11 @@
   <div align="justify">
   <p> 
   - 👩‍🎓: Na <a   href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> do 4° período no curso de Engenharia da Computação. <a/> <br/>
-  - :necktie: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
+  - 👩‍💼: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
    target="_blank">Localiza</a>, atuei como <code>It Developer Operation</code>, responsável pelo suporte técnico de segundo nível, garantindo a resolução de incidentes complexos e o funcionamento contínuo dos sistemas; :airplane:<br />
-  - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
-  - :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">Faculdade XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-  - :trophy: Fui o <a href="https://www.linkedin.com/posts/joaopauloaramuni_estou-muito-honrado-com-essa-homenagem-do-activity-7164606251341889536-_khY" target="_blank">professor destaque</a> do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-  - :mortar_board: Fui o <a href="https://www.fumec.br/servicos/colacao-de-grau/homenagens/" target="_blank">patrono</a> da turma de Ciência da Computação da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> no primeiro semestre de 2020.<br />
-  - :atom: Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/PROJETOS/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-  - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-  - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-  - :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-  - :basketball: Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e violão.<br />
-  - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a>.<br />
+  - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/usuario/8907731-ray" target="_blank">aqui</a>.<br />
+  - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cruzeirão</a>. 🦊:<br />
+  - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt4474344/?ref_=fn_al_tt_1" target="_blank">Ponto Cego</a>. Atualmente estou assistindo <a href="https://www.imdb.com/title/tt0455275/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_pris" target="_blank">Prison Break</a>.<br />
   - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
   - :mailbox: Para me encontrar, este é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:joaoaramuni@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
   - :calendar: Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
