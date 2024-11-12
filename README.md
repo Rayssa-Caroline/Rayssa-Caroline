@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
   <div>
-  <img align="center" alt="Header" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/image%20banner.png"/>
+  <img align="center" alt="Header" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/image%20banner%202.png"/>
   </div>
   
 
