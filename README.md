@@ -66,8 +66,8 @@
   <td>
   <div align="justify">
   <p> 
-  - 👩‍🎓: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> do 4° período no curso de Engenharia da Computação. 
-   - :necktie: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
+  - 👩‍🎓: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> do 4° período no curso de Engenharia da Computação. />
+  - :necktie: Na <a href="https://zarp.localiza.com/?utm_source=google&utm_medium=cpc_fundo&utm_campaign=12183064796&utm_term=localiza+zarp&utm_content=120651550921&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hx_8rLp_7hG6NDw4lkALdXMmaI88GzPb82w29bcN59O8ZC0XFnzmQaAvnYEALw_wcB" 
    target="_blank">Localiza</a>, atuei como <code>It Developer Operation</code>, responsável pelo suporte técnico de segundo nível, garantindo a resolução de incidentes complexos e o funcionamento contínuo dos sistemas; :airplane:<br />
   - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
   - :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">Faculdade XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
