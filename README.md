@@ -19,7 +19,7 @@
   </td>
   <td><a href="https://mail.google.com/mail/?view=cm&fs=1&to=rayssacaroline.dev@gmail.com" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/gmail2.png" width="50px" height="50px"/></a
   </td>
-  <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+  <td><a href="https://wa.me/5531992348351?text=Olá,%20gostaria%20de%20mais%20informações!" target="_blank"><img src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/wpp2.png" width="50px" height="50px"/></a>
   </td>
   <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
   </td>
