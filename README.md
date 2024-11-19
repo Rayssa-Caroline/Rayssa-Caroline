@@ -119,7 +119,7 @@
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/azure-devops-logo-E7364216A7-seeklogo.com.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/salesforce-transparent-logo-115525063493207zrqpiz.png"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/salesforce-logo.png"/></a></code>
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/mongodb.png"/></a></code>
 &nbsp;
