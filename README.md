@@ -126,3 +126,12 @@
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/postgresql.png"/></a></code>
 &nbsp;
 
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/handshake2.gif?raw=true"/>&nbsp;Empresas e contratos que atuei:
+
+
+
+
+
+</div>
