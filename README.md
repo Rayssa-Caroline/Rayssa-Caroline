@@ -92,3 +92,5 @@
    <td align="center" colspan="2"></td>
   </tr> 
   </table>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
