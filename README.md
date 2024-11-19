@@ -113,4 +113,4 @@
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/CSS3_logo_and_wordmark.svg.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/SERVICENOW-logo-300-x-470px-.webp"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/kisspng-smiley-green-text-messaging-meter-professional-odoo-rest-api-odoo-apps-5d3f7a46db7da5.509542591564441158899.jpg"/></a></code>
