@@ -130,18 +130,9 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/handshake2.gif?raw=true"/>&nbsp;Empresas e contratos que atuei:
+  <div>
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="8"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://alamoti.net/" target="_blank"><img width="75" height="75" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/images%20(4).png"/></a>
-</td>
+  <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Rayssa Caroline </summary>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mybyba3zuutsfpg7osp5ct4tt4" alt="Data Card for Spotify">
 
-
-
-</div>
+  </div>
