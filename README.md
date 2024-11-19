@@ -121,8 +121,6 @@
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/salesforce-logo.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/mongodb.png"/></a></code>
-&nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/5968313.png"/></a></code>
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/postgresql.png"/></a></code>
