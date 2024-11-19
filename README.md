@@ -103,11 +103,11 @@
 &nbsp;
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/js.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/react.png"/></a></code
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/react.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/slack.png"/></a></code
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/slack.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/vs.png"/></a></code
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/vs.png"/></a></code>
 &nbsp;
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/Git-Icon-1788C.png"/></a></code
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rayssa-Caroline/Rayssa-Caroline/blob/main/Git-Icon-1788C.png"/></a></code>
 &nbsp;
