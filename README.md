@@ -136,3 +136,5 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mybyba3zuutsfpg7osp5ct4tt4" alt="Data Card for Spotify">
 
   </div>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF007F&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
